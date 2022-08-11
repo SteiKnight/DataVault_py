@@ -1,0 +1,20 @@
+category,name,brand,stock_available,selling_price
+Cooldrinks,Coke,,26,22.49
+Cooldrinks,Fanta,,15,20.99
+Cooldrinks,Cream Soda,,13,18.49
+Chips,Creamy Cheddar,Simba,58,15.99
+Chips,Smooked Beed,Simba,15,15.99
+Chips,Mexican Chilli,Simba,28,15.99
+Chips,Salt & Vinegar,Lays,19,19.99
+Chips,Lightly Salted,Lays,12,19.99
+Pies,Pepper Steak,Pick 'n Pay,9,14.99
+Pies,Chicken,Pick 'n Pay,8,14.99
+Cupcakes,Vanilla,Pick 'n Pay,5,18.99
+Cupcakes,Chocolate,Pick 'n Pay,3,18.99
+Veggies,Spinach,Pick 'n Pay,43,29.99
+Veggies,Cabbage,Pick 'n Pay,58,16.99
+Fruit,Pear,,23,4.49
+Fruit,Apple,,20,2.39
+Fruit,Orange,,28,3.63
+Chocolates,PS,Cadbury,3,8.99
+Chocolates,Tex,Nestlé,8,10.79
